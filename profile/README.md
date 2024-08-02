@@ -34,7 +34,7 @@
 
 <div align="center">
 
-  <sub>Feito por <a href="https://github.com/asolipa365" target="_blank">António Solipa (@asolipa365)<a> 🩵</sub>  
+  <sub>Feito por <a href="https://github.com/asolipa365" target="_blank">António Solipa (@solipa365)<a> 🩵</sub>  
   <img height="20px" src="https://user-images.githubusercontent.com/49994083/189573872-f81a164a-de54-4536-a520-5e5124cf9653.png">
   
 </div>
